@@ -89,5 +89,3 @@ class VersionedScope:
             return [self.transactions[i] for i in range(start_version, len(self.transactions) + 1)]
         else:
             return self.history
-
-

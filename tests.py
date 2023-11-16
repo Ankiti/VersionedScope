@@ -104,8 +104,6 @@ def run_tests():
 
     print("All test cases passed!")
 
-
-
 # Run the tests
 run_tests()
 
